@@ -4,6 +4,7 @@
 
  ## Galaxy colitions
 This algorithm was used to simulate galaxy colitions up to 4000 objects, rendered in an apple silicon M1 chip, we present snapshots of some of the simulations.
+![plot](./results/bh_1.png)
 
 
 
